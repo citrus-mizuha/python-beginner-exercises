@@ -1,2 +1,7 @@
+def factorial(n) -> int:
+    # ここに処理を書きなさい
+
+
 n = int(input())
-# この先に処理を書きなさい
+print(factorial(n))
+
